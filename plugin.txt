@@ -1,0 +1,3 @@
+download this folder to enable NS support files to enable learning scipts
+
+DIR name: ns-allinone-2.35
