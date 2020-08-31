@@ -1,0 +1,8 @@
+#variables used
+
+i - temp variable
+src - Source
+sum - sum of optimal shortest path weight
+T - visiting check array 1-N -> (0/1)
+S - set of optimal nodes
+
